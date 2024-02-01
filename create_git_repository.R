@@ -1,7 +1,7 @@
 #Tutorial: https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/
 # This is one-time, no need to save the code, but I save it for reference
 library(usethis)
-use_git_config(user.name = "Carlos Fernández", user.email = "carlos.fernandez@isglobal.org") #Seems that nothing happens, but it has changed behind the scenes
+use_git_config(user.name = "Carlos Fernández", user.email = "carlos.fe.es@gmail.com") #Seems that nothing happens, but it has changed behind the scenes
 use_git() # Press 1: Definitely
 
 # Se crea una pestaña Git en la parte derecha de RStudio (tras reiniciar)
