@@ -10,7 +10,7 @@ use_git() # Press 1: Definitely
 
 create_github_token()
 # Me lleva a página de GitHub, pongo nombre y lo copio para guardarlo
-# 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
+# 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
 
 # Conectar git y GitHub
 library(gitcreds)
